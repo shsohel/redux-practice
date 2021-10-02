@@ -1,0 +1,2 @@
+Last Topics :
+1. Put as Much Logic as Possible in Reducers
