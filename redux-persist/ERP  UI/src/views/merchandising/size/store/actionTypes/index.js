@@ -1,0 +1,12 @@
+
+export const GET_SIZES = "GET_SIZES";
+export const GET_SIZES_BY_QUERY = "GET_SIZES_BY_QUERY";
+export const GET_SIZE_BY_ID = "GET_SIZE_BY_ID";
+export const ADD_SIZE = "ADD_SIZE";
+export const UPDATE_SIZE = "UPDATE_SIZE";
+export const DELETE_SIZE = "DELETE_SIZE";
+export const DELETE_SIZES_BY_RANGE = "DELETE_SIZES_BY_RANGE";
+export const SELECTED_SIZE_NULL = "SELECTED_SIZE_NULL";
+
+export const OPEN_SIZE_SIDEBAR = "OPEN_SIZE_SIDEBAR";
+export const DROP_DOWN_SIZES = "DROP_DOWN_SIZES";
